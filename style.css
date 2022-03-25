@@ -1,0 +1,10 @@
+@font-face {
+    src: url(LittleFontAndBigFont-Regular.ttf);
+    font-family: LittleFontAndBigFont;
+}
+
+.paragraph {
+    font-size: 100px;
+    line-height: 114px;
+    font-family: LittleFontAndBigFont;
+}
